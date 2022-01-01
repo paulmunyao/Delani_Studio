@@ -1,14 +1,16 @@
-*body{
+body{
     padding: 0;
     margin: 0;
+    overflow-x: hidden;
 }
 
 .one{
     border: 3px solid red;
-    height:500px;
+    height:1500px;
     width: 100%;
 }
 
-/* .picha{
-    
+/* .picha img{
+    height: 10px;
+  
 } */
