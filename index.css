@@ -80,7 +80,7 @@
   }
 }
 
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 992px) {
   .one {
     border: 3px solid red;
     height: 200px;
@@ -95,7 +95,7 @@
 
   .picha {
     width: 100%;
-    height: 400px;
+    height: 200px;
   }
 
   .karibu {
@@ -118,7 +118,7 @@
   }
 }
 
-/* @media only screen and (max-width: 280px) {
+@media only screen and (max-width: 280px) {
   .one {
     border: 3px solid red;
     height: 150px;
@@ -154,7 +154,45 @@
     margin-top: 1px;
     height: 10px;
   }
-} */
+}
+
+@media only screen and (max-width: 320px) {
+  .one {
+    border: 3px solid red;
+    height: 150px;
+    width: 100%;
+  }
+
+  .log {
+    margin-left: 140px;
+    margin-top: 30px;
+    height: 30px;
+  }
+
+  .picha {
+    width: 100%;
+    height: 150px;
+  }
+
+  .karibu {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 5px;
+    color: white;
+  }
+
+  .lead {
+    text-align: center;
+    font-size: 5px;
+    color: white;
+  }
+
+  .scroll {
+    margin-left: 150px;
+    margin-top: 0px;
+    height: 15px;
+  }
+}
 
 /* @media only screen and (min-width: 1024px) {
   one {
@@ -269,5 +307,3 @@
     height: 20px;
   }
 } */
-
-
