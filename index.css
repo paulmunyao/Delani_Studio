@@ -61,6 +61,12 @@
   font-size: 15px;
 }
 
+.three {
+    border: 3px solid red;
+    height: 350px;
+    width: 100%;
+  }
+
 @media only screen and (max-width: 600px) {
   .one {
     border: 3px solid red;
@@ -140,5 +146,11 @@
     margin-left: 150px;
     margin-top: 0px;
     height: 15px;
+  }
+
+  .two {
+    border: 3px solid red;
+    height: 500px;
+    width: 100%;
   }
 }
