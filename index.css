@@ -4,11 +4,11 @@
   overflow-x: hidden;
 }
 
-/* .one {
+.one {
   border: 3px solid red;
   height: 700px;
   width: 100%;
-} */
+}
 
 .picha {
   background-image: url("images/stair.png");
