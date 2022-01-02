@@ -84,6 +84,12 @@
   color: white;
 }
 
+.vice {
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
+
 @media only screen and (max-width: 600px) {
   .one {
     border: 3px solid red;
