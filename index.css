@@ -63,7 +63,16 @@
 
 .three {
     border: 3px solid red;
-    height: 350px;
+    height: 300px;
+    width: 100%;
+  }
+
+  .bak{
+    background-image: url("images/laptop.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
     width: 100%;
   }
 
