@@ -76,7 +76,13 @@
   width: 100%;
 }
 
-
+.serve {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 25px;
+  font-family: "Roboto";
+  color: white;
+}
 
 @media only screen and (max-width: 600px) {
   .one {
