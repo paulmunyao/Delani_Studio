@@ -98,10 +98,11 @@
     height: 20px;
   }
 
-  /* .us {
-    text-align: center;
-    font-size: 12px;
-  } */
+  .two {
+    border: 3px solid red;
+    height: 500px;
+    width: 100%;
+  }
 }
 
 @media only screen and (max-width: 320px) {
