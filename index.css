@@ -6,11 +6,16 @@
 
  .one{
     border: 3px solid red;
-    height:1500px;
+    height:700px;
     width: 100%;
 } 
 
 .picha {
    background-image: url("images/stair.png");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 700px;
+   width: 100%;
   
 }
