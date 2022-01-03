@@ -191,9 +191,14 @@
   height: 200px;
 }
 
-.porto{
-    margin-left: 50px;
+.por{
+    display:flex;
+    justify-content: space-evenly;
 }
+
+/* .porto{
+    margin-left: 50px;
+} */
 
 @media only screen and (max-width: 600px) {
   .one {
