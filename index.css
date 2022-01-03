@@ -116,7 +116,8 @@
 }
 
 .des{
-    margin-left: 155px;
+    margin-left: 160px;
+    font-family: "Roboto";
 }
 
 @media only screen and (max-width: 600px) {
