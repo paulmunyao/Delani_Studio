@@ -105,56 +105,71 @@
   margin-top: 40px;
 }
 
-.four img{
-    margin-left: 160px;
+.four img {
+  margin-left: 160px;
 }
 
-#des{
-    margin-left: 170px;
-    font-family: "Roboto";
+#des {
+  margin-left: 170px;
+  font-family: "Roboto";
 }
 
-.hide{
-    text-align: center;
-    margin-right: 750px;
-    font-size: 12px;
-    display: none;
+.hide {
+  text-align: center;
+  margin-right: 750px;
+  font-size: 12px;
+  display: none;
 }
 
-#dev{
-    margin-left: 150px;
-    font-family: "Roboto";
+#dev {
+  margin-left: 150px;
+  font-family: "Roboto";
 }
 
-.hide{
-    text-align: center;
-    margin-right: 750px;
-    font-size: 12px;
-    display: none;
+.hide {
+  text-align: center;
+  margin-right: 750px;
+  font-size: 12px;
+  display: none;
 }
 
-#pro{
-    margin-left: 110px;
-    font-family: "Roboto";
+#pro {
+  margin-left: 110px;
+  font-family: "Roboto";
 }
 
-.hide{
-    text-align: center;
-    margin-right: 750px;
-    font-size: 12px;
-    display: none;
+.hide {
+  text-align: center;
+  margin-right: 750px;
+  font-size: 12px;
+  display: none;
 }
 
 .five {
-    border: 3px solid red;
-    height: 700px;
-    width: 100%;
-  }
+  border: 3px solid red;
+  height: 700px;
+  width: 100%;
+}
 
-  .por1{
-      width: 200px;
-      height: 200px;
-  }
+.por1 {
+  width: 200px;
+  height: 200px;
+}
+
+.por2 {
+  width: 200px;
+  height: 200px;
+}
+
+.por3 {
+  width: 200px;
+  height: 200px;
+}
+
+.por4 {
+  width: 200px;
+  height: 200px;
+}
 
 @media only screen and (max-width: 600px) {
   .one {
