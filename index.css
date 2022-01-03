@@ -91,12 +91,6 @@
   color: white;
 }
 
-.three {
-  border: 3px solid red;
-  height: 300px;
-  width: 100%;
-}
-
 .four {
   border: 3px solid red;
   height: 400px;
@@ -115,7 +109,7 @@
     margin-left: 160px;
 }
 
-.des{
+#des{
     margin-left: 170px;
     font-family: "Roboto";
 }
@@ -127,37 +121,35 @@
     display: none;
 }
 
-/* .four img{
-    margin-left: 160px;
-} */
-
-.dev{
+#dev{
     margin-left: 150px;
     font-family: "Roboto";
 }
 
-.ficha{
+.hide{
     text-align: center;
     margin-right: 750px;
     font-size: 12px;
     display: none;
 }
 
-.pro{
+#pro{
     margin-left: 110px;
     font-family: "Roboto";
 }
 
-.duct{
+.hide{
     text-align: center;
     margin-right: 750px;
     font-size: 12px;
     display: none;
 }
 
-/* .flexible{
-    display: inline-block;
-} */
+.five {
+    border: 3px solid red;
+    height: 700px;
+    width: 100%;
+  }
 
 @media only screen and (max-width: 600px) {
   .one {
