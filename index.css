@@ -147,7 +147,7 @@
 
 .five {
   border: 3px solid red;
-  height: 700px;
+  height: 630px;
   width: 100%;
 }
 
@@ -199,7 +199,7 @@
 .port{
     display:flex;
     justify-content: space-evenly;
-    margin-top:30px;
+    margin-top:80px;
 }
 
 @media only screen and (max-width: 600px) {
