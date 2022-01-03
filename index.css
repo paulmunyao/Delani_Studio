@@ -111,6 +111,10 @@
   margin-top: 40px;
 }
 
+.four img{
+    margin-left: 150px;
+}
+
 @media only screen and (max-width: 600px) {
   .one {
     border: 3px solid red;
