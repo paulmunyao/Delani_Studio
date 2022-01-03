@@ -239,9 +239,9 @@
   transform: rotateY(180deg);
 }
 
-#zun{
-    color: white;
-    font: size 60px;
+#zun {
+  color: white;
+  font: size 60px;
 }
 @media only screen and (max-width: 600px) {
   .one {
@@ -305,37 +305,37 @@
     width: 220px;
     height: 200px;
   }
-  
+
   .por2 {
     width: 220px;
     height: 200px;
   }
-  
+
   .por3 {
     width: 220px;
     height: 200px;
   }
-  
+
   .por4 {
     width: 220px;
     height: 200px;
   }
-  
+
   .por5 {
     width: 220px;
     height: 200px;
   }
-  
+
   .por6 {
     width: 220px;
     height: 200px;
   }
-  
+
   .por7 {
     width: 220px;
     height: 200px;
   }
-  
+
   .por8 {
     width: 220px;
     height: 200px;
@@ -345,7 +345,7 @@
     display: flex;
     justify-content: space-evenly;
   }
-  
+
   .port {
     display: flex;
     justify-content: space-evenly;
@@ -409,5 +409,9 @@
     background-size: cover;
     height: 110px;
     width: 100%;
+  }
+
+  .row {
+    margin-left: -50px;
   }
 }
