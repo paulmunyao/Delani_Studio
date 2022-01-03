@@ -450,4 +450,19 @@
   .row {
     margin-left: -50px;
   }
+
+  .six {
+    border: 3px solid red;
+    height: 200px;
+    width: 100%;
+  }
+
+  .contact {
+    background-image: url("images/back.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+  }
 }
