@@ -1,3 +1,4 @@
-jQuery(".four img").click(function(){
-    jQuery(".ign").toggle();
+jQuery(".design").click(function(){
+    jQuery("#show").toggle();
+    jQuery(".hide-image").toggle();
 });
