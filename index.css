@@ -196,9 +196,11 @@
     justify-content: space-evenly;
 }
 
-/* .porto{
-    margin-left: 50px;
-} */
+.port{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top:30px;
+}
 
 @media only screen and (max-width: 600px) {
   .one {
