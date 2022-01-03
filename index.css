@@ -264,6 +264,24 @@
   height: 500px;
   width: 100%;
 }
+
+#inputName {
+  background-color: transparent;
+}
+
+#inputEmail {
+  background-color: transparent;
+}
+
+#inputMessage {
+  height: 200px;
+  background-color: transparent;
+}
+
+::placeholder{
+    color: white;
+}
+
 @media only screen and (max-width: 600px) {
   .one {
     border: 3px solid red;
