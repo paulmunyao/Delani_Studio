@@ -115,6 +115,10 @@
     margin-left: 150px;
 }
 
+.des{
+    margin-left: 155px;
+}
+
 @media only screen and (max-width: 600px) {
   .one {
     border: 3px solid red;
