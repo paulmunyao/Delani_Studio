@@ -191,6 +191,10 @@
   height: 200px;
 }
 
+.porto{
+    margin-left: 50px;
+}
+
 @media only screen and (max-width: 600px) {
   .one {
     border: 3px solid red;
