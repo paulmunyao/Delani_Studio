@@ -373,6 +373,12 @@
     margin-top: 80px;
   }
 
+  .six {
+    border: 3px solid red;
+    height: 300px;
+    width: 100%;
+  }
+
   .contact {
     background-image: url("images/back.jpg");
     background-repeat: no-repeat;
