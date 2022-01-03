@@ -238,6 +238,11 @@
 .flip-box-back {
   transform: rotateY(180deg);
 }
+
+#zun{
+    color: white;
+    font: size 60px;
+}
 @media only screen and (max-width: 600px) {
   .one {
     border: 3px solid red;
@@ -294,6 +299,57 @@
     background-size: cover;
     height: 130px;
     width: 100%;
+  }
+
+  .por1 {
+    width: 220px;
+    height: 200px;
+  }
+  
+  .por2 {
+    width: 220px;
+    height: 200px;
+  }
+  
+  .por3 {
+    width: 220px;
+    height: 200px;
+  }
+  
+  .por4 {
+    width: 220px;
+    height: 200px;
+  }
+  
+  .por5 {
+    width: 220px;
+    height: 200px;
+  }
+  
+  .por6 {
+    width: 220px;
+    height: 200px;
+  }
+  
+  .por7 {
+    width: 220px;
+    height: 200px;
+  }
+  
+  .por8 {
+    width: 220px;
+    height: 200px;
+  }
+
+  .por {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .port {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
   }
 }
 
