@@ -127,6 +127,22 @@
     display: none;
 }
 
+.four img{
+    margin-left: 160px;
+}
+
+.dev{
+    margin-left: 150px;
+    font-family: "Roboto";
+}
+
+.ficha{
+    text-align: center;
+    margin-right: 750px;
+    font-size: 12px;
+    display: none;
+}
+
 @media only screen and (max-width: 600px) {
   .one {
     border: 3px solid red;
