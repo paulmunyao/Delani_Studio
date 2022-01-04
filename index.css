@@ -282,13 +282,13 @@
   margin-top: 40px;
 }
 
-::placeholder{
-    color: white;
-    padding-top: 40px;
+::placeholder {
+  color: white;
+  padding-top: 40px;
 }
 
-.btn{
-    margin-top: 40px;
+.btn {
+  margin-top: 40px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -491,5 +491,18 @@
     background-size: cover;
     height: 200px;
     width: 100%;
+  }
+
+  #inputName {
+    background-color: transparent;
+    width: 280px;
+    margin-left: 35px;
+  }
+
+  #inputEmail {
+    background-color: transparent;
+    width: 280px;
+    margin-left: 35px;
+    margin-top: 40px;
   }
 }
