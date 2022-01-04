@@ -431,6 +431,10 @@
     width: 100%;
   }
 
+  .btn {
+    margin-bottom: 40px;
+  }
+
   .soc img {
     height: 25px;
   }
