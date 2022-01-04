@@ -21,9 +21,6 @@ Paul Munyao Mutiso
 Email:paulmunyao094@gmail.com
 
 # MIT License
-https://img.shields.io/github/license/LICENSE.md/https://github.com/paulmunyao/Delani_Studio.git?color=purple&logo=Delani&logoColor=Yellow
-
-### Copyright
 Copyright (c) (2022) (Paul Munyao Mutiso)<br>Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
