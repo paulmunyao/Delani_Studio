@@ -8,8 +8,8 @@ to it's esteemed clientelle.The services vary depending on what one wants.
 ## Support and contact
 Email:paulmunyao094@gmail.com
 
-# MIT License
-
+<!-- # MIT License
+https://img.shields.io/github/license/LICENSE.md/https://github.com/paulmunyao/Delani_Studio.git?color=purple&logo=Delani&logoColor=Yellow -->
 ### Copyright
 Copyright (c) (2021) (Paul Munyao Mutiso)<br>Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

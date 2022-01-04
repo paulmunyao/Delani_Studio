@@ -5,7 +5,7 @@
 }
 
 .one {
-  border: 3px solid red;
+  /* border: 3px solid red; */
   height: 700px;
   width: 100%;
 }
@@ -43,7 +43,7 @@
 }
 
 .two {
-  border: 3px solid red;
+  /* border: 3px solid red; */
   height: 320px;
   width: 100%;
 }
@@ -62,7 +62,7 @@
 }
 
 .three {
-  border: 3px solid red;
+  /* border: 3px solid red; */
   height: 300px;
   width: 100%;
 }
@@ -92,7 +92,7 @@
 }
 
 .four {
-  border: 3px solid red;
+  /* border: 3px solid red; */
   height: 400px;
   width: 100%;
 }
@@ -146,7 +146,7 @@
 }
 
 .five {
-  border: 3px solid red;
+  /* border: 3px solid red; */
   height: 630px;
   width: 100%;
 }
@@ -243,7 +243,7 @@
 }
 
 .six {
-  border: 3px solid red;
+  /* border: 3px solid red; */
   height: 500px;
   width: 100%;
 }
@@ -292,7 +292,7 @@
 }
 
 .seven {
-  border: 3px solid red;
+  /* border: 3px solid red; */
   height: 200px;
   width: 100%;
 }
@@ -305,7 +305,7 @@
 
 @media only screen and (max-width: 600px) {
   .one {
-    border: 3px solid red;
+    /* border: 3px solid red; */
     height: 200px;
     width: 100%;
   }
@@ -341,13 +341,13 @@
   }
 
   .two {
-    border: 3px solid red;
+    /* border: 3px solid red; */
     height: 500px;
     width: 100%;
   }
 
   .three {
-    border: 3px solid red;
+    /* border: 3px solid red; */
     height: 130px;
     width: 100%;
   }
@@ -417,7 +417,7 @@
   }
 
   .six {
-    border: 3px solid red;
+    /* border: 3px solid red; */
     height: 300px;
     width: 100%;
   }
@@ -442,7 +442,7 @@
 
 @media only screen and (max-width: 320px) {
   .one {
-    border: 3px solid red;
+    /* border: 3px solid red; */
     height: 150px;
     width: 100%;
   }
@@ -478,13 +478,13 @@
   }
 
   .two {
-    border: 3px solid red;
+    /* border: 3px solid red; */
     height: 500px;
     width: 100%;
   }
 
   .three {
-    border: 3px solid red;
+    /* border: 3px solid red; */
     height: 110px;
     width: 100%;
   }
@@ -503,7 +503,7 @@
   }
 
   .six {
-    border: 3px solid red;
+    /* border: 3px solid red; */
     height: 200px;
     width: 100%;
   }
