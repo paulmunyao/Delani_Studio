@@ -4,7 +4,7 @@ Delani Studio is a fictional studio that offers Software Development services,
 to it's esteemed clientelle.The services vary depending on what one wants.
 
 ## Technology used 
-1)HTML<br>2)CSS
+1)HTML<br>2)CSS<br>3<br>Bootstrap<br>4)Javascript<br>5)JQuery
 ## Support and contact
 Email:paulmunyao094@gmail.com
 
