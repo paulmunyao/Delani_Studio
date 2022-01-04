@@ -14,6 +14,9 @@ I'm open to contributions and learning
 If you wish to do so Kindly
 clone the github repo to your terminal and afterwards submit a pull request.
 
+## Authors
+Paul Munyao Mutiso
+
 ## Support and contact
 Email:paulmunyao094@gmail.com
 
