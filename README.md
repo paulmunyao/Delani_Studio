@@ -10,6 +10,9 @@ to it's esteemed clientelle.The services vary depending on what one wants.
 https://watch.screencastify.com/v/4IL2QuH7zCJmtu70H7rd
 
 ## Contributions
+I'm open to contributions and learning
+If you wish to do so Kindly
+clone the github repo to your terminal and afterwards submit a pull request.
 
 ## Support and contact
 Email:paulmunyao094@gmail.com
