@@ -3,9 +3,6 @@
 Delani Studio is a fictional studio that offers Software Development services,
 to it's esteemed clientelle.The services vary depending on what one wants.
 
-## Installation
-1)Install VScode<br>2)write your codes install a live server<br>3)push your code to the remote server
-
 ## Technology used 
 1)HTML<br>2)CSS
 ## Support and contact
