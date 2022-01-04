@@ -267,19 +267,24 @@
 
 #inputName {
   background-color: transparent;
+  width: 400px;
 }
 
 #inputEmail {
   background-color: transparent;
+  width: 420px;
 }
 
 #inputMessage {
   height: 200px;
+  width: 900px;
   background-color: transparent;
+  margin-top: 40px;
 }
 
 ::placeholder{
     color: white;
+    padding-top: 40px;
 }
 
 @media only screen and (max-width: 600px) {
