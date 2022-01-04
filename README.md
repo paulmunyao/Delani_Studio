@@ -1,7 +1,3 @@
-
-
-https://user-images.githubusercontent.com/71633148/148073552-3abc739e-98c6-41dd-830b-f798f840bb4d.mp4
-
 # Delani Studio
 
 Delani Studio is a fictional studio that offers Software Development services,
@@ -11,7 +7,7 @@ to it's esteemed clientelle.The services vary depending on what one wants.
 1)HTML<br>2)CSS<br>3)Bootstrap<br>4)Javascript<br>5)JQuery
 
 ## Visual
-https://user-images.githubusercontent.com/71633148/148072666-8f0c8112-2412-42e3-9d2f-fe40b56e4fc1.mp4
+https://user-images.githubusercontent.com/71633148/148073552-3abc739e-98c6-41dd-830b-f798f840bb4d.mp4
 
 ## Contributions
 I'm open to contributions and learning
