@@ -14,5 +14,7 @@ jQuery("#productManagement").click(function(){
 });
 
 function validateform(){
-    
+    let name = document.myForm.inputName.value;
+    let email = document.myForm.inputEmail.value;
+    let message = document.myForm.inputMessage.value;
 }
