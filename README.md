@@ -9,6 +9,7 @@ to it's esteemed clientelle.The services vary depending on what one wants.
 ## Visual
 https://watch.screencastify.com/v/4IL2QuH7zCJmtu70H7rd
 
+## Contributions
 
 ## Support and contact
 Email:paulmunyao094@gmail.com
