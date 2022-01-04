@@ -292,10 +292,16 @@
 }
 
 .seven {
-    border: 3px solid red;
-    height: 150px;
-    width: 100%;
-  }
+  border: 3px solid red;
+  height: 200px;
+  width: 100%;
+}
+
+.social{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
 
 @media only screen and (max-width: 600px) {
   .one {
