@@ -7,9 +7,7 @@ to it's esteemed clientelle.The services vary depending on what one wants.
 1)HTML<br>2)CSS<br>3)Bootstrap<br>4)Javascript<br>5)JQuery
 
 ## Visual
-<!-- https://watch.screencastify.com/v/4IL2QuH7zCJmtu70H7rd -->
-
-
+https://vimeo.com/662283421/311e7c47cd
 
 ## Contributions
 I'm open to contributions and learning
