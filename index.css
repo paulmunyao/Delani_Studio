@@ -303,6 +303,11 @@
   margin-top: 40px;
 }
 
+.tex{
+  text-align: center;
+  margin-top: 40px;
+}
+
 @media only screen and (max-width: 600px) {
   .one {
     /* border: 3px solid red; */
