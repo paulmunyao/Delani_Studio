@@ -297,10 +297,10 @@
   width: 100%;
 }
 
-.social{
-    display: flex;
-    justify-content: space-evenly;
-    margin-top: 40px;
+.social {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 40px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -429,6 +429,10 @@
     background-size: cover;
     height: 300px;
     width: 100%;
+  }
+
+  .soc img {
+    height: 25px;
   }
 }
 
