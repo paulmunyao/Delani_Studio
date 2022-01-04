@@ -1,12 +1,13 @@
-jQuery("#design").click(function(){
-    jQuery(".design-showing").toggle();
-    jQuery(".hide-design-image").toggle();
+jQuery(".hide-design-image").click(function(){
+    jQuery(".icon1").toggle();
+    jQuery(".hide1").toggle();
 })
 
-jQuery("#development").click(function(){
-    jQuery("#development-showing").toggle();
-    jQuery(".hide-development-image").toggle();
-});
+jQuery(".hide-development-image").click(function(){
+    jQuery(".icon2").toggle();
+    jQuery(".hide2").toggle();
+})
+
 
 jQuery("#productManagement").click(function(){
     jQuery("#product-management-showing").toggle();

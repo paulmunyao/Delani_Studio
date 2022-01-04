@@ -110,37 +110,37 @@
 }
 
 #des {
-  margin-left: 110px;
+  margin-left: 120px;
   font-family: "Roboto";
 }
 
-.hide {
+.hide1 {
   text-align: center;
-  margin-right: 750px;
+  margin-left: 30px;
   font-size: 12px;
   display: none;
 }
 
-/* #dev {
-  margin-left: 90px;
+#dev {
+  margin-left: 100px;
   font-family: "Roboto";
-} */
+}
 
-.hide {
+.hide2 {
   text-align: center;
-  margin-right: 750px;
+  margin-left: 30px;
   font-size: 12px;
   display: none;
 }
 
 #pro {
-  margin-left: 80px;
+  margin-left: 60px;
   font-family: "Roboto";
 }
 
-.hide {
+.hide3 {
   text-align: center;
-  margin-right: 750px;
+  margin-right: 30px;
   font-size: 12px;
   display: none;
 }
