@@ -3,11 +3,13 @@
 Delani Studio is a fictional studio that offers Software Development services,
 to it's esteemed clientelle.The services vary depending on what one wants.
 
+/home/moringa/Downloads/New Recording - 1_4_2022, 4_59_04 PM.mp4
+
 ## Technology used 
 1)HTML<br>2)CSS<br>3)Bootstrap<br>4)Javascript<br>5)JQuery
 
-## Visual
-https://vimeo.com/662283421/311e7c47cd
+<!-- ## Visual
+https://vimeo.com/662283421/311e7c47cd -->
 
 ## Contributions
 I'm open to contributions and learning
