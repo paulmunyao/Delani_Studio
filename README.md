@@ -9,7 +9,7 @@ to it's esteemed clientelle.The services vary depending on what one wants.
 ## Visual
 <!-- https://watch.screencastify.com/v/4IL2QuH7zCJmtu70H7rd -->
 
-/home/moringa/Downloads/Untitled_ Jan 4, 2022 3_12 PM.mp4
+
 
 ## Contributions
 I'm open to contributions and learning
